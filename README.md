@@ -1,2 +1,4 @@
 # Basic website login page
- Login form and signup form connected to SQL
+This login form has been created using HTML, CSS (Bootstrap), PHP & SQL
+
+
